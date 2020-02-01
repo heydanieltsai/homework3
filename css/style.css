@@ -17,11 +17,11 @@ body{
   font-family: 'Andika', sans-serif;
   font-size: 16px;
   margin: 1.2em;
-  background-image: url("..homework3/images/pigeon-background.JPEG");
-  background-repeat: no-repeat;
+  background-size: cover;
   background-position: center;
-  background-size: cover ;
-  background-color: #dddddd;
+  background-image: url('../images/pigeon-background.jpeg');
+  background-color: #DDDDDD;
+  background-repeat: no-repeat;
 }
 
 main{
