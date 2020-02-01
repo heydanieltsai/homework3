@@ -57,14 +57,6 @@ table{
     border: 2px solid black;
     border-radius: 15px;
     -moz-border-radius:15px;
-}
-
-
-html, body {
-    width: 100%;
-}
-
-table {
     margin: 0 auto;
 }
 
